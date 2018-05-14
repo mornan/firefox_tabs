@@ -1,0 +1,2 @@
+cd C:\Program Files (x86)\Mozilla Firefox
+firefox -new-tab -url http://www.docoja.com/kata/katatxtg.html -new-tab -url https://en.wikibooks.org/wiki/Memorizing_the_Katakana/The_H_line -new-tab -url https://en.wikipedia.org/wiki/Katakana -new-tab -url https://www.tofugu.com/japanese/learn-katakana/ -new-tab -url http://kidspicturedictionary.com/japanese/hiragana-katakana-mnemonics/ -new-tab -url http://crunchynihongo.com/easy-katakana-guide-1/#t -new-tab -url https://quizlet.com/21141374/katakana-pictures-mnemonics-flash-cards/
